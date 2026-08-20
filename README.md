@@ -319,6 +319,8 @@ Resources provide read-only access to Autotask data:
 
 The server provides 101 tools for interacting with Autotask:
 
+> Full catalog: See [`docs/MCP_TOOL_CATALOG.md`](docs/MCP_TOOL_CATALOG.md) for every tool with read-only vs write/update classification.
+
 #### Company Operations
 - `autotask_search_companies` - Search companies with filters
 - `autotask_create_company` - Create new company
